@@ -33,6 +33,12 @@ public class IfStatements {
         Scanner scanner=new Scanner(System.in);
         number=scanner.nextInt();
         checkEvenOdd(number);
+        unnati(new String[]{"unnati,anjusha,gayatri"});
+    }
+
+
+    public static void unnati(String[] args) {
+        System.out.println(args);
     }
 
 }
