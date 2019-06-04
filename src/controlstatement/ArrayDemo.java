@@ -1,17 +1,24 @@
 package controlstatement;
 
+
+import java.util.Scanner;
+
 public class ArrayDemo {
 
     public static void main(String[] args) {
         int array[]={1,2,3,4,5};
-        int array1[]=new int[10];
-        array1[0]=1;
-        array1[1]=2;
-        array1[2]=3;
-        array1[3]=4;
 
-        for (int i=0;i<6;i++){
-            System.out.println(array1[i]);
+        System.out.println("Enter the size of array : ");
+        Scanner scanner=new Scanner(System.in);
+        int n=scanner.nextInt();
+        int array1[]=new int[n];
+        for (int i=0;i<n;i++){
+            System.out.println("Enter the value of array at : "+i);
+            array1[i]=scanner.nextInt();
         }
+        for (int i:array1){
+            System.out.println("array of : "+i);
+        }
+
     }
 }
