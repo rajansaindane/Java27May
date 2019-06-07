@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="18da2f78-bd77-44f9-86e4-97140dcbd96a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/constructordemo/ConstructorDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/controlstatement/SwitchCaseDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/controlstatement/SwitchCaseDemo.java" afterDir="false" />
-    </list>
+    <list default="true" id="18da2f78-bd77-44f9-86e4-97140dcbd96a" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -72,8 +68,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/constructordemo/ConstructorDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="22" column="19" selection-start-line="22" selection-start-column="19" selection-end-line="22" selection-end-column="19" />
+            <state relative-caret-position="68">
+              <caret line="4" column="10" lean-forward="true" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
               <folding>
                 <element signature="e#282#283#0" expanded="true" />
                 <element signature="e#337#338#0" expanded="true" />
@@ -144,7 +140,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559880708811" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559880751344" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -277,14 +273,20 @@
       <option name="project" value="LOCAL" />
       <updated>1559621610102</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="constructor and this.">
+      <created>1559880728110</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1559880728124</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="67" y="25" width="1293" height="743" extended-state="7" />
-    <editor active="true" />
+    <frame x="67" y="25" width="1293" height="743" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.29430634" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29430634" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -321,7 +323,8 @@
     <MESSAGE value="single-D array." />
     <MESSAGE value="single-D array. push" />
     <MESSAGE value="2-D array and switch case." />
-    <option name="LAST_COMMIT_MESSAGE" value="2-D array and switch case." />
+    <MESSAGE value="constructor and this." />
+    <option name="LAST_COMMIT_MESSAGE" value="constructor and this." />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/FirstDay.java">
@@ -368,8 +371,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/constructordemo/ConstructorDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="19" selection-start-line="22" selection-start-column="19" selection-end-line="22" selection-end-column="19" />
+        <state relative-caret-position="68">
+          <caret line="4" column="10" lean-forward="true" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
           <folding>
             <element signature="e#282#283#0" expanded="true" />
             <element signature="e#337#338#0" expanded="true" />
