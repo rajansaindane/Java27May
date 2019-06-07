@@ -4,7 +4,6 @@ import java.util.Scanner;
 
 public class SwitchCaseDemo {
 
-
     public static void main(String[] args) {
         Scanner scanner=new Scanner(System.in);
         System.out.println("Enter your Choice : \n"+"1.add\n"+"2.sub\n"+"3.mul");
