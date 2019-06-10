@@ -1,5 +1,7 @@
 package controlstatement;
 
+import keywords.StaticKeyDemo;
+
 import java.util.Date;
 
 public class ForLoops {
@@ -19,6 +21,7 @@ public class ForLoops {
             }*/
 
             }
+        StaticKeyDemo.countDemo1();
     }
 
     public static void main(String[] args) {

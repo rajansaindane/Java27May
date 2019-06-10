@@ -1,6 +1,8 @@
 package controlstatement;
 
 
+import keywords.StaticKeyDemo;
+
 import java.util.Scanner;
 
 public class ArrayDemo {
