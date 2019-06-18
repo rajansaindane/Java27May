@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="18da2f78-bd77-44f9-86e4-97140dcbd96a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/abstraction/AbsractDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/abstraction/CheckAbstraction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/encapsulation/Registration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/encapsulation/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interfacedemo/CheckAbstract.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interfacedemo/CheckInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interfacedemo/InterfaceDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="18da2f78-bd77-44f9-86e4-97140dcbd96a" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -81,8 +72,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/encapsulation/Registration.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="184">
-              <caret line="15" column="36" selection-start-line="15" selection-start-column="36" selection-end-line="15" selection-end-column="36" />
+            <state relative-caret-position="17">
+              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
             </state>
           </provider>
         </entry>
@@ -221,7 +212,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1560834099312" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1560834137273" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -404,14 +395,20 @@
       <option name="project" value="LOCAL" />
       <updated>1560486709407</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="interface,encapsulation">
+      <created>1560834122008</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1560834122008</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1293" height="743" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.35605454" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.35605454" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -423,7 +420,7 @@
       <window_info id="Job Explorer" order="9" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.35179153" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.35179153" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -452,7 +449,8 @@
     <MESSAGE value="static key." />
     <MESSAGE value="while loop." />
     <MESSAGE value="aggrigation" />
-    <option name="LAST_COMMIT_MESSAGE" value="aggrigation" />
+    <MESSAGE value="interface,encapsulation" />
+    <option name="LAST_COMMIT_MESSAGE" value="interface,encapsulation" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/FirstDay.java">
@@ -707,8 +705,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/encapsulation/Registration.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="15" column="36" selection-start-line="15" selection-start-column="36" selection-end-line="15" selection-end-column="36" />
+        <state relative-caret-position="17">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
