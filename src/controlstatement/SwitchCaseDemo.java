@@ -28,6 +28,7 @@ public class SwitchCaseDemo {
                 default:
                     System.out.println("Invalid Choice");
         }
-
+   /*     String msg="My Name Is Rajan";
+        String[] msgArray={"My","Name","Is","Rajan"};*/
     }
 }

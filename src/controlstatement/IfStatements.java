@@ -27,13 +27,26 @@ public class IfStatements {
 
     }
 
+
+    private static void checkBreak(){
+
+        for(int i=0;i<10;i++){
+            if (i==5){
+                break;
+            }
+            System.out.println(i);
+        }
+
+    }
+
     public static void main(String[] args) {
-        int number;
+        checkBreak();
+        /*int number;
         System.out.print("Enter Percentage : ");
         Scanner scanner=new Scanner(System.in);
         number=scanner.nextInt();
         checkEvenOdd(number);
-        unnati(new String[]{"unnati,anjusha,gayatri"});
+        unnati(new String[]{"unnati,anjusha,gayatri"});*/
     }
 
 
